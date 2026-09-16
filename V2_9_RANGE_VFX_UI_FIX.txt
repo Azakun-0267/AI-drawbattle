@@ -1,0 +1,1 @@
+v2.9: canonical move area spec drives preview + hitbox + cast direction; larger practical ranges; compact PC HUD; online floating HUD removed; poison pool uses canonical landing area.

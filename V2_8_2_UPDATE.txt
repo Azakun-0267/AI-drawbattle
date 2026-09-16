@@ -1,0 +1,5 @@
+v2.8.2
+- Battle skill descriptions are visible during combat and selected skill gets a detailed effect panel.
+- Online 2v2 players can choose Team A or Team B themselves. Teams must be 2 vs 2 before battle starts.
+- Ally/enemy/self identification strengthened in fixed HP cards and floating HUDs.
+- BattleScreen respects the team selected in the online lobby instead of forcing P1/P3 vs P2/P4.

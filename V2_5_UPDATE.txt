@@ -1,0 +1,6 @@
+v2.5
+- オンライン開始不能: WebSocketコールバックの古いselected/player参照をref化
+- 1vs1 / 2vs2 / 1vs1vs1vs1 オンラインロビー
+- 最大4人入室、必要人数READYで開始
+- 2vs2はP1/P3 vs P2/P4
+- 描画画面にバケツ塗りつぶし追加

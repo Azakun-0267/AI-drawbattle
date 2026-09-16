@@ -1,0 +1,7 @@
+v2.8.1
+- Range preview and hit detection now use the same canonical geometry/math.
+- Beam: rectangle, dash/teleport: wide rectangle, pull/spread: 30-degree sector, knockback: 60-degree sector, explosion/spin: filled circle, projectile: 28-degree sector, mortar: landing circle.
+- Poison projectile preview is the exact landing circle used for immediate status hit and the persistent poison pool.
+- Poison explosion pool uses the exact caster-centered circular preview.
+- Persistent poison pool lasts 3 turns.
+- Rescue/repulse status explosions now actually knock enemies back.

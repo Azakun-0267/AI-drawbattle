@@ -1,0 +1,8 @@
+{
+  "name": "Remix AIモンスターバトル 3D",
+  "description": "手描きモンスターで戦う3Dタクティカルバトル！ボット戦と対人戦の切り替え、モンスター自身の自由移動、毎ターンのランダム移動力、技射程と味方連携コンボ、技を放つとターン終了の本格戦術システム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

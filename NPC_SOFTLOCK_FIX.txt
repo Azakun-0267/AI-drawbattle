@@ -1,0 +1,5 @@
+NPC操作・進行不能バグ修正
+- CPUがエネルギー不足/CT中の技を選ばないように修正
+- 万一CPUが使用不能技を実行してもTACTICAL_CONTROL（人間操作）へ移行せず次ターンへ進む
+- 人間操作判定は isBot !== true を必須化
+- 大乱闘CPUにもenergy/shield/cooldowns/statusesを明示初期化

@@ -1,0 +1,6 @@
+v3.1.2 PC blank-screen fix
+
+- BattleArenaScene lifecycle now uses useLayoutEffect so Three.js canvas cleanup happens before React DOM mutation.
+- destroy() only removes renderer canvas when the actual parent relationship is valid, preventing Node.removeChild/insertBefore DOM desync crashes.
+- Japanese document language + translate=no prevents browser translation from rewriting React-managed battle DOM.
+- Existing v3.1.1 spectator fix and v3.1 gameplay changes preserved.

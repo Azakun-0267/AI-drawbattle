@@ -1,0 +1,7 @@
+v2.6
+- OnlineBattleScreenの簡易戦闘を廃止
+- BOT戦と同じBattleScreen/BattleArenaSceneをオンラインでも使用
+- 1vs1 / 2vs2 / 4人FFA
+- 各プレイヤーは自分のモンスターのターンだけ操作
+- WASD、旋回、移動距離、範囲表示、エネルギー、CT、シールド、状態異常、回復、ノックバック等はBOT戦と同一
+- server.jsはオンライン戦闘のダメージ計算をせず、BattleScreenの状態同期を中継

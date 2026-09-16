@@ -1,0 +1,5 @@
+v2.5.5
+- READY通信時に巨大なbase64画像を送らないよう修正
+- monster_selected ACK追加
+- ready_ack ACK追加
+- READY送信状態を画面表示

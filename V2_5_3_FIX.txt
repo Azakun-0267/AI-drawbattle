@@ -1,0 +1,1 @@
+v2.5.3: READYボタンをサーバーのselected反映待ちから独立。押下時にselect_monster→readyを同一WebSocketで連続送信。人数待ちでもREADY可能。

@@ -1,0 +1,4 @@
+v2.5.2 READY fix
+- The currently selected monster is automatically registered with the online room immediately after create/join.
+- Fixes the READY button remaining disabled even though a monster appears selected.
+- Keeps 1vs1, 2vs2, 4-player FFA and fill tool from v2.5.1.

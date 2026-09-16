@@ -1,0 +1,7 @@
+v2.9.1
+- 回復を攻撃ヒットcallbackから分離し、確実にHPへ反映
+- 回復結果を即 participantsRef / React / Three に同期
+- 毒判定を技名だけでなく id/description/specialEffect まで判定
+- 毒・毒沼のターン開始ダメージを即同期
+- TEAM A/B と P番号を上部HPカードに常時表示
+- 足元のチームリングを大型・高視認性化。ローカルプレイヤーでもチーム色を維持

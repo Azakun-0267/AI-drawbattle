@@ -1,0 +1,1 @@
+v2.7.1: hit detection uses visible area only; vortex pull/knockback move targets; fainted monsters disappear; enemy stealth is fully invisible; drawing fill/brush gaps and alpha overlap fixed.

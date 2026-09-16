@@ -1,0 +1,7 @@
+v2.4 online lobby update
+- Create/join room before monster registration
+- Both players connect, then host selects online mode
+- Each player chooses a monster from their own browser save data
+- Each player presses READY; battle starts only when both are ready
+- Local saves remain separate per browser/device
+- Online currently supports 1vs1; structure is ready for adding more modes later

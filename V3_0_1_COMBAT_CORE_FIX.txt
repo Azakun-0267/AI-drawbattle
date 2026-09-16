@@ -1,0 +1,7 @@
+v3.0.1 combat core fixes
+- all-field / explosion hit test no longer capped to 20m; preview/VFX/hit-test use same Move range
+- poison pool and poison tick show damage popup
+- online receiver shows HP delta damage/heal popups from authoritative snapshots
+- online victory/defeat is recalculated from each local player's team perspective
+- counter stance consumes on next damaging hit and reflects damage to attacker
+- damage updates commit to participantsRef immediately so result checks and online sync see the new HP/fainted state

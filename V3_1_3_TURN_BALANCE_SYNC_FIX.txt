@@ -1,0 +1,9 @@
+v3.1.3
+- Poison/zone death turn skip retained and online state synchronized
+- Stun/freeze/sleep/paralysis now consumes and decrements on skipped turns; no permanent lock
+- Disable/root style move cooldown floor raised to 6
+- Counter cooldown floor 6 and reflected damage reduced to 45%
+- Decoy reduced to 1 full interception, cooldown floor 6
+- Online battle log is synchronized/merged so every client sees every player action
+- Turn banner separated vertically from HP cards
+- HP hard cap 1800 for newly generated and battle participants, including legacy saved monsters
